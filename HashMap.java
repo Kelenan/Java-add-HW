@@ -49,10 +49,10 @@ public class Printer {
         int phone2;
 
         if (args.length == 0) {
-            name1 = "Ivanov";
-            name2 = "Petrov";
-            phone1 = 123456;
-            phone2 = 654321;
+            name1 = "Petrov";
+            name2 = "Sidorov";
+            phone1 = 12345678;
+            phone2 = 87654321;
         } else {
             name1 = args[0];
             name2 = args[1];
